@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# ReactJS Movie Finder
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![screencapture-movie-finder-reactbasic-netlify-app-2022-10-30-12_08_09](https://user-images.githubusercontent.com/95177300/198863533-1f6b629f-1a88-4866-8177-e61125afbd3d.png)
 
 ## Available Scripts
 
